@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Asankilp/Asankilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://asankilp.github.io/akarin.html">
+  <img align=right src="https://user-images.githubusercontent.com/60691961/179545384-80b45276-b410-48dd-9afa-954ef455d44f.png">  
+</a>
 
-Here are some ideas to get you started:
+# Akarin~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=left>
+ 
+[![Steam](https://img.shields.io/badge/Asankilp-black.svg?logo=Steam)](https://steamcommunity.com/id/asankilp/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Asankilp-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/Asankilp)
+[![Hugging Face](https://img.shields.io/badge/🤗-Asankilp-yellow.svg?labelColor=yellow&color=black)](https://huggingface.co/Asankilp)
+- 热爱 ACGN 文化，是 INFP-T 。  
+- 代码如下北泽的雪般令人难受。 
+- ~~似乎喜欢穿奇怪的衣服？~~
+
+</div>
+
+# 没啥亮点的状态栏
+![stat](https://github-readme-stats.vercel.app/api?username=Asankilp&show_icons=true&theme=buefy)
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Asankilp&theme=buefy&hide=ren%27py%2chtml&layout=compact)
+
