@@ -10,13 +10,24 @@
 [![Steam](https://img.shields.io/badge/Asankilp-black.svg?logo=Steam)](https://steamcommunity.com/id/asankilp/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Asankilp-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/Asankilp)
 [![Hugging Face](https://img.shields.io/badge/🤗-Asankilp-yellow.svg?labelColor=yellow&color=black)](https://huggingface.co/Asankilp)
-- 热爱 ACGN 文化，是 INFP-T 。  
+- 热爱 ACGN 文化，是 INFP-T。  
 - 代码如下北泽的雪般令人难受。 
 - ~~似乎喜欢穿奇怪的衣服？~~
+- 拥有一个虚构的人物设定"Marsho"。
+
+# 喜欢的东西/属性
+- 所有可爱的事物
+- 反差萌（？
+- 百合动漫
+- ~~Marsho~~
+
+# 可能会做的事情
+- 创造可爱的事物（多种载体，存在形式）
+- 学习更多技术？
 
 </div>
 
 # 没啥亮点的状态栏
-![stat](https://github-readme-stats.vercel.app/api?username=Asankilp&show_icons=true&theme=buefy)
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Asankilp&theme=buefy&hide=ren%27py%2chtml&layout=compact)
+![stat](https://github-readme-stats.vercel.app/api?username=Asankilp&show_icons=true&theme=buefy&locale=cn&count_private=true)
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Asankilp&theme=buefy&hide=ren%27py%2chtml&layout=compact&locale=cn)
 
