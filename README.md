@@ -28,6 +28,6 @@
 </div>
 
 # 没啥亮点的状态栏
-![stat](https://github-readme-stats.vercel.app/api?username=Asankilp&show_icons=true&theme=buefy&locale=cn&count_private=true)
-![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Asankilp&theme=buefy&hide=ren%27py%2chtml&layout=compact&locale=cn)
-
+![stat](https://github-readme-stats.vercel.app/api?username=Asankilp&show_icons=true&theme=buefy&locale=cn&count_private=true)  
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Asankilp&theme=buefy&hide=ren%27py%2chtml&layout=compact&locale=cn)  
+![](https://github-contributor-stats.vercel.app/api?username=Asankilp&limit=15&combine_all_yearly_contributions=true)
