@@ -8,8 +8,9 @@
 <div align=left>
  
 [![Steam](https://img.shields.io/badge/Asankilp-black.svg?logo=Steam)](https://steamcommunity.com/id/asankilp/)
-[![Minecraft](https://img.shields.io/badge/Minecraft-Asankilp-green.svg?labelColor=green&color=yellowgreen)](https://namemc.com/profile/Asankilp)
-[![Hugging Face](https://img.shields.io/badge/🤗-Asankilp-yellow.svg?labelColor=yellow&color=black)](https://huggingface.co/Asankilp)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Asankilp-green.svg?labelColor=green)](https://namemc.com/profile/Asankilp)
+[![Hugging Face](https://img.shields.io/badge/Asankilp-yellow.svg?labelColor=gray&logo=huggingface)](https://huggingface.co/Asankilp)
+[![wakatime](https://wakatime.com/badge/user/1571ffc9-6272-424d-ab83-9900532df59b.svg)](https://wakatime.com/@1571ffc9-6272-424d-ab83-9900532df59b)
 - 热爱 ACGN 文化，是 INFP-T。  
 - 代码如下北泽的雪般令人难受。 
 - ~~似乎喜欢穿奇怪的衣服？~~
